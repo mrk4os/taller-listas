@@ -10,3 +10,5 @@ Se limpie el campo para añadir nuevos ítems
 3- Realicen las modificaciones necesarias para que al pulsar el botón Limpiar:
 Se elimine el listado almacenado
 Se actualice la vista del listado (ahora vacío)
+
+EXTRA: agregamos un botón para borrar el útlimo elemento agregado al listado.
