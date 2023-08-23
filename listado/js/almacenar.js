@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const eliminarBtnUltimoElemento = document.getElementById("limpiarUltimo");
 
     actualizarLista();
-    //Borra lo que esta escrito
     agregarBtn.addEventListener("click", agregarItem);
     eliminarBtn.addEventListener("click", eliminarTodo);
     eliminarBtnUltimoElemento.addEventListener("click", eliminarUltimo);
