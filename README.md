@@ -11,4 +11,6 @@ Se limpie el campo para añadir nuevos ítems
 Se elimine el listado almacenado
 Se actualice la vista del listado (ahora vacío)
 
-EXTRA: agregamos un botón para borrar el útlimo elemento agregado al listado.
+EXTRA: 
+- agregamos funcionalidad de tecla Enter, para agregar item al listado.
+- agregamos un botón para borrar el útlimo elemento agregado al listado.
